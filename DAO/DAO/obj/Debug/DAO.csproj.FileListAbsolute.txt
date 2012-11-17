@@ -1,0 +1,14 @@
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\WebServiceTaxyEmp\DAO\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\WebServiceTaxyEmp\DAO\DAO\bin\Debug\DAO.dll
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\WebServiceTaxyEmp\DAO\DAO\bin\Debug\DAO.pdb
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\WebServiceTaxyEmp\DAO\DAO\bin\Debug\DTO.dll
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\WebServiceTaxyEmp\DAO\DAO\bin\Debug\DTO.pdb
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\WebServiceTaxyEmp\DAO\DAO\obj\Debug\DAO.dll
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\WebServiceTaxyEmp\DAO\DAO\obj\Debug\DAO.pdb
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\DAO\DAO\bin\Debug\DAO.dll
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\DAO\DAO\bin\Debug\DAO.pdb
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\DAO\DAO\bin\Debug\DTO.dll
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\DAO\DAO\bin\Debug\DTO.pdb
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\DAO\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\DAO\DAO\obj\Debug\DAO.dll
+D:\UPC\2012-02\Desarrollo_de_Sistemas_Distribuidos\Trabajo_SD\WebServiceTaxyEmp\DAO\DAO\obj\Debug\DAO.pdb
